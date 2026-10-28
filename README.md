@@ -6,7 +6,7 @@
 Mohammedia, Morocco · Available for international relocation and assignments
 
 ## About me
-I hold a State Engineering Degree in Electrical Engineering and Industrial Control. Since February 2025, I have worked at Afriqua Pool Technologie in Casablanca on automation, electrical engineering and commissioning projects.
+I hold a State Engineering Degree in Electrical Engineering and Industrial Control. Since February 2025, I have worked in Casablanca on automation, electrical engineering and commissioning projects.
 
 My work covers PLC control programs, operator interfaces, SCADA integration, functional testing and fault diagnosis, alongside LV electrical studies and medium-voltage protection relay configuration.
 
